@@ -1,5 +1,5 @@
 # Guide to set up your Deep Learning Machine from Scratch
-This file is a guide to setup your deep learning machine. Its not a comprehensive guide to deal with installation issue. I have made this to communicate the primary instructions to my team members. I've intentionally left out the Nvidia driver update,CUDA and cuDNN installation. For the time being lets build some baby networks to validate our models. After that we will move to more generalised datasets.
+This file is a guide to setup your deep learning machine. It is not a comprehensive guide to deal with all the installation issues. I have made this to communicate the primary instructions to my team members. I've intentionally left out the Nvidia driver update,CUDA and cuDNN installation. For the time being lets build some baby networks to validate our models. After that we will move to more generalised datasets and distributed learning.
 
 **Basics**
 
